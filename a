@@ -1,0 +1,5 @@
+Gramática 1: S-> SS+|SS*|a
+0) S'->S
+1) S->SS+
+2) S->SS*
+3) S->a
